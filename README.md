@@ -44,8 +44,8 @@
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/IranCustomer.git
-cd IranCustomer
+git clone https://github.com/dralirezaheyrani/Iran-Customer
+cd Iran-Customer
 ```
 
 ### 3️⃣ Install Dependencies
@@ -116,8 +116,8 @@ We welcome contributions! If you have ideas for improvements, feel free to contr
 
 ### 2️⃣ کلون کردن پروژه
 ```bash
-git clone https://github.com/YourUsername/IranCustomer.git
-cd IranCustomer
+git clone https://github.com/dralirezaheyrani/Iran-Customer
+cd Iran-Customer
 ```
 
 ### 3️⃣ نصب وابستگی‌ها
