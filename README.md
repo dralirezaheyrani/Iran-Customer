@@ -9,11 +9,17 @@
 ## 🎯 ویژگی‌های کلیدی
 
 ✅ **مدیریت کامل اطلاعات مشتریان** (پروفایل، تاریخچه خرید، تعاملات و ...)
+
 ✅ **داشبورد تحلیلی و گزارش‌های پیشرفته** (نرخ تبدیل، رفتار مشتری، نمودارها)
+
 ✅ **بازاریابی هوشمند و تبلیغات هدفمند** (ارسال پیامک و ایمیل خودکار، پیشنهادهای شخصی‌سازی‌شده)
+
 ✅ **مدیریت فروش و سفارشات** (پیگیری فاکتورها، یادآوری پرداخت‌ها، پردازش سفارش‌ها)
+
 ✅ **یکپارچه‌سازی با پیام‌رسان‌ها و شبکه‌های اجتماعی** (واتس‌اپ، تلگرام، اینستاگرام و ...)
+
 ✅ **احراز هویت دو مرحله‌ای و سطح‌بندی دسترسی کاربران**
+
 ✅ **قابلیت توسعه و اتصال به سایر سیستم‌ها از طریق API**
 
 ---
@@ -21,10 +27,15 @@
 ## 🛠️ فناوری‌های مورد استفاده
 
 - **Backend:** FastAPI / Django / Node.js
+- 
 - **Database:** PostgreSQL / MongoDB
+- 
 - **Frontend:** React / Vue.js
+- 
 - **Authentication:** JWT / OAuth2
+- 
 - **Messaging:** Twilio / Kavenegar API
+- 
 - **Cloud & Storage:** AWS / Firebase
 
 ---
@@ -33,7 +44,9 @@
 
 ### 1️⃣ پیش‌نیازها
 - Python 3.9+
+- 
 - Node.js 16+
+- 
 - PostgreSQL / MongoDB
 
 ### 2️⃣ کلون کردن پروژه
@@ -75,11 +88,17 @@ npm run dev
 ## 🎯 Key Features
 
 ✅ **Comprehensive Customer Management** (Profiles, Purchase History, Interactions)
+
 ✅ **Advanced Analytics & Reporting** (Conversion Rates, Customer Behavior, Charts)
+
 ✅ **Smart Marketing & Targeted Ads** (Automated SMS & Email, Personalized Offers)
+
 ✅ **Sales & Order Management** (Invoice Tracking, Payment Reminders, Order Processing)
+
 ✅ **Integration with Social Media & Messengers** (WhatsApp, Telegram, Instagram)
+
 ✅ **Two-Factor Authentication & User Access Control**
+
 ✅ **API for Seamless Integration with Other Systems**
 
 ---
@@ -87,11 +106,17 @@ npm run dev
 ## 🛠️ Tech Stack
 
 - **Backend:** FastAPI / Django / Node.js
+- 
 - **Database:** PostgreSQL / MongoDB
+- 
 - **Frontend:** React / Vue.js
+- 
 - **Authentication:** JWT / OAuth2
+- 
 - **Messaging:** Twilio / Kavenegar API
+- 
 - **Cloud & Storage:** AWS / Firebase
+- 
 
 ---
 
